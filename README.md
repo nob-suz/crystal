@@ -1,5 +1,6 @@
 Crystal [![Build Status](https://travis-ci.org/manastech/crystal.png)](https://travis-ci.org/manastech/crystal)
 =======
+日本語での説明は、Wikiをご覧ください
 
 Crystal is a programming language with the following goals:
 
