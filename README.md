@@ -1,6 +1,6 @@
 Crystal [![Build Status](https://travis-ci.org/manastech/crystal.png)](https://travis-ci.org/manastech/crystal)
 =======
-日本語での説明は、Wikiをご覧ください
+日本語での説明は、[Wiki](https://github.com/nob-suz/crystal/wiki/1.-%E6%9C%80%E5%88%9D%E3%81%AB%EF%BC%88%E6%A6%82%E8%A6%81%EF%BC%89)をご覧ください
 
 参考に[Google翻訳されたManastech/Crystal Gitページ](https://translate.googleusercontent.com/translate_c?depth=1&hl=ja&ie=UTF8&prev=_t&rurl=translate.google.co.jp&sl=en&tl=ja&u=https://github.com/manastech/crystal&usg=ALkJrhjFellRbj6RWGOjx_zrOgndVD54Ug)
 
