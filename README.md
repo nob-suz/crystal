@@ -1,7 +1,7 @@
 Crystal [![Build Status](https://travis-ci.org/manastech/crystal.png)](https://travis-ci.org/manastech/crystal)
 =======
 日本語での説明は、Wikiをご覧ください
-
+参考に[Google翻訳されたManastech/Crystal Gitページ](https://translate.googleusercontent.com/translate_c?depth=1&hl=ja&ie=UTF8&prev=_t&rurl=translate.google.co.jp&sl=en&tl=ja&u=https://github.com/manastech/crystal&usg=ALkJrhjFellRbj6RWGOjx_zrOgndVD54Ug)
 Crystal is a programming language with the following goals:
 
 * Have the same syntax as Ruby, or at least as similar as possible.
