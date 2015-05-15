@@ -41,6 +41,15 @@ Installing
 
 [Follow these instructions](http://crystal-lang.org/docs/installation/index.html)
 
+Documentation
+----------
+
+Both in progress:
+
+* [Official docs](http://crystal-lang.org/docs)
+* [Standard library API](http://crystal-lang.org/api)
+
+
 Community
 ---------
 
