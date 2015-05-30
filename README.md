@@ -7,6 +7,10 @@ Crystal [![Build Status](https://travis-ci.org/manastech/crystal.png)](https://t
 　（参考に[Google翻訳された公式ドキュメント](https://translate.google.co.jp/translate?sl=en&tl=ja&js=y&prev=_t&hl=ja&ie=UTF-8&u=http%3A%2F%2Fcrystal-lang.org%2Fdocs%2F&edit-text=)　）
 
 
+Try it online
+[play.crystal-lang.org]
+(http://play.crystal-lang.org/#/cr)
+
 Crystal is a programming language with the following goals:
 
 * Have the same syntax as Ruby, or at least as similar as possible.
