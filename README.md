@@ -47,9 +47,10 @@ Both in progress:
 
 * [Official docs](http://crystal-lang.org/docs)
 
+* [Standard library API](http://crystal-lang.org/api)
+
 　（[Google Japanese Auto Translation of Public Manuals](https://translate.google.co.jp/translate?sl=en&tl=ja&js=y&prev=_t&hl=ja&ie=UTF-8&u=http%3A%2F%2Fcrystal-lang.org%2Fdocs%2F&edit-text=)　）
 
-* [Standard library API](http://crystal-lang.org/api)
 
 Community
 ---------
