@@ -1,7 +1,7 @@
 Crystal [![Build Status](https://travis-ci.org/manastech/crystal.png)](https://travis-ci.org/manastech/crystal)
 =======
 
-Read [Wiki Pages first] for more Crystal langauge information (https://github.com/nob-suz/crystal/wiki)
+Read [Wiki Pages first](https://github.com/nob-suz/crystal/wiki) for more Crystal langauge information 
 
 
 日本語での説明は、[こちらのWiki](https://github.com/nob-suz/crystal/wiki/1.-%E6%9C%80%E5%88%9D%E3%81%AB%EF%BC%88%E6%A6%82%E8%A6%81%EF%BC%89)をご覧ください
