@@ -1,4 +1,4 @@
-#Finally this web is moded to [Crystallian](https://github.com/nob-suz/Crystallian)
+#Finally this web is moved to [Crystallian](https://github.com/nob-suz/Crystallian)
 
 Crystal [![Build Status](https://travis-ci.org/manastech/crystal.png)](https://travis-ci.org/manastech/crystal)
 =======
